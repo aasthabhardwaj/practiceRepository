@@ -1,3 +1,6 @@
 Step 1:I have cloned an empty file.
 Step 2: Created a file named hello using touch cmd
 Step 3: Edited the file.
+Step 4: used git add and git commit
+Step 5: used git push to push all the the commits.
+Step 6: now coming back to my local file I am changing the text.
